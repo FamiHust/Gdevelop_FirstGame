@@ -619,6 +619,574 @@
         "name": "Background11.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "jump.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "jump.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "world_tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world_tileset.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Health Bar Box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar Box.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/Bar/e6e666707e06c429f6dd475d85d575a5b69a1dc27369a8f1d06a747afa2f1264_Health Bar Box.png",
+          "name": "Health Bar Box.png"
+        }
+      },
+      {
+        "file": "assets/Health Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/Bar/ec41092214e9b23d9992e2885835085c8e5457268b3e054599e799cc8074fc52_Health Bar.png",
+          "name": "Health Bar.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tiled Empty UI Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Empty UI Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/UI/519263438248377197120750d43b299f255ed049875d8b335a3a5bab45244f4f_tiled_Tiled Empty UI Heart.png",
+          "name": "tiled_Tiled Empty UI Heart.png"
+        }
+      },
+      {
+        "file": "assets/Heart_Spinning_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/d9929d9e7b50ab626226ec30e0c7dd5244e4697f28a89066846f2a7716ff0a1a_Heart_Spinning_1.png",
+          "name": "Heart_Spinning_1.png"
+        }
+      },
+      {
+        "file": "assets/Heart_Spinning_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/47cb0fdb4ab4e7b535e3e620f2e24e3bcf638ec17c02295149dd32ebd011840d_Heart_Spinning_2.png",
+          "name": "Heart_Spinning_2.png"
+        }
+      },
+      {
+        "file": "assets/Heart_Spinning_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e11069acc11e2345b585000e69c8eb306c711dedb8ef4b4b254995c7d1f3aea4_Heart_Spinning_3.png",
+          "name": "Heart_Spinning_3.png"
+        }
+      },
+      {
+        "file": "assets/Heart_Spinning_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/622b22a6123a579433c65142303eb06a5f7c915330253007a3f06b423b8dcbfc_Heart_Spinning_4.png",
+          "name": "Heart_Spinning_4.png"
+        }
+      },
+      {
+        "file": "power_up.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "power_up.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Spikes.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spikes/9728e7ce3b9e8fc40dd7f91a8553a1d6818f5e4026cdbe05293716d4fc796b12_Spikes.png",
+          "name": "Spikes.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a3be6261d38e6d7ce5b6e5fcf0dbf27150bced3517562e54835f31975ff35322_Laser Spikes_Activate_1.png",
+          "name": "Laser Spikes_Activate_1.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/58a3f6b99c85e93762dd6c4441f2245281706d7ac852513994f6d692ca424c8e_Laser Spikes_Activate_10.png",
+          "name": "Laser Spikes_Activate_10.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/191421cf5591ff26a7525ce5800162c3b39d4873bb510ff6de48d6411b4b3b2c_Laser Spikes_Activate_2.png",
+          "name": "Laser Spikes_Activate_2.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/bf90731f6df88b8687b11a2d677e01e521d06ad91538219cb6518405cd1dc761_Laser Spikes_Activate_3.png",
+          "name": "Laser Spikes_Activate_3.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/10644230494e0426717712ea5e6ce9bd95359e030c999f2b2721410789776714_Laser Spikes_Activate_4.png",
+          "name": "Laser Spikes_Activate_4.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/ad0b08b769da2e951d5af04e74982946315f3f7755801580e48f8fbfbffb8dde_Laser Spikes_Activate_5.png",
+          "name": "Laser Spikes_Activate_5.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/f341f1cb2d397195fc9b8db8a282bfb080630a615d769fd12c2f8575eb1b332e_Laser Spikes_Activate_6.png",
+          "name": "Laser Spikes_Activate_6.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/b914d5f65ab901bb8ea2809068067d12b2397fab974746e3fdf0706734c95adf_Laser Spikes_Activate_7.png",
+          "name": "Laser Spikes_Activate_7.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/a08f7aeb667ffef800bb2b682d6fd7e36977b766b521dcf7b44b27569c383ca3_Laser Spikes_Activate_8.png",
+          "name": "Laser Spikes_Activate_8.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Activate_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Activate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/58a3f6b99c85e93762dd6c4441f2245281706d7ac852513994f6d692ca424c8e_Laser Spikes_Activate_9.png",
+          "name": "Laser Spikes_Activate_9.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0f7795f79333e33000c4ff4d463e598651b7b2f80dec7777d31c9797840e1bd6_Laser Spikes_Deactivate_1.png",
+          "name": "Laser Spikes_Deactivate_1.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0f7795f79333e33000c4ff4d463e598651b7b2f80dec7777d31c9797840e1bd6_Laser Spikes_Deactivate_2.png",
+          "name": "Laser Spikes_Deactivate_2.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/0f7795f79333e33000c4ff4d463e598651b7b2f80dec7777d31c9797840e1bd6_Laser Spikes_Deactivate_3.png",
+          "name": "Laser Spikes_Deactivate_3.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2861e9b8ae6c4629a36326e696391c4dfa2a78b81c2c2dd574bad7604182cf6d_Laser Spikes_Deactivate_4.png",
+          "name": "Laser Spikes_Deactivate_4.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/3550d282450562f3b67d75b6d1661144f8805e336b9b622f984989809131296e_Laser Spikes_Deactivate_5.png",
+          "name": "Laser Spikes_Deactivate_5.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/df73c4c35dd46f28cd644eaa515b634fc219db7a590631c3c784fb92baf05da5_Laser Spikes_Deactivate_6.png",
+          "name": "Laser Spikes_Deactivate_6.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/fb4d1f09b881e125e7e790154190b2354839e21cadc18884ddb21eb3579053b1_Laser Spikes_Deactivate_7.png",
+          "name": "Laser Spikes_Deactivate_7.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Deactivate_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Deactivate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2cd2ad061a7475ee664e50cd88b452a8cfc0d31c0e374c92ae95eab33c037d73_Laser Spikes_Deactivate_8.png",
+          "name": "Laser Spikes_Deactivate_8.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/6a720cadfb725e873894bbba633ec932f7de6efcfad171b8dadb3a9e83548931_Laser Spikes_Idle_1.png",
+          "name": "Laser Spikes_Idle_1.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/18ee83c3ddf6b49ea3b727fe0a1752eda7660f670a19c410bd7b400bdbabd4e9_Laser Spikes_Idle_10.png",
+          "name": "Laser Spikes_Idle_10.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/2df9da84322e4fbfd70614cf7f2a47570d535a96cb0676059b26a052a7d81b69_Laser Spikes_Idle_2.png",
+          "name": "Laser Spikes_Idle_2.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/114cdd29446e80a389d96bfae644fc27f913163322b5e66288dc67647fa99aea_Laser Spikes_Idle_3.png",
+          "name": "Laser Spikes_Idle_3.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/075ec711c0f853db9d29ec687e4a0c569a129ce792f4cab9e87b8a2b77cded3e_Laser Spikes_Idle_4.png",
+          "name": "Laser Spikes_Idle_4.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/8ee216b299e86ff24310c475179257005f4b3897de90a68f945fbe8bda84d2b3_Laser Spikes_Idle_5.png",
+          "name": "Laser Spikes_Idle_5.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/da21d38122acea494a8bd50590c0095011532ebd82f4e05b088610e61c38d931_Laser Spikes_Idle_6.png",
+          "name": "Laser Spikes_Idle_6.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/9cd4b3a48dccef1b4acbfa71d14bc0f392dc541e6a1d668b4f8148b04dd8bc73_Laser Spikes_Idle_7.png",
+          "name": "Laser Spikes_Idle_7.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/d4e30a44e3a7b24a80cf5f73fa40b07db21ac3f978d013edea80d26a30877232_Laser Spikes_Idle_8.png",
+          "name": "Laser Spikes_Idle_8.png"
+        }
+      },
+      {
+        "file": "assets/Laser Spikes_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser Spikes_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Trap/67e75afaf012d8fbaef6e1313ade04d5904ad1a5edbb86285320e51d2f1df9cb_Laser Spikes_Idle_9.png",
+          "name": "Laser Spikes_Idle_9.png"
+        }
+      },
+      {
+        "file": "slime_green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "slime_green.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "world_tileset2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world_tileset2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "world_tileset3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world_tileset3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "world_tileset4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world_tileset4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "world_tileset5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world_tileset5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "HealthBar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HealthBar.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "HealthBar2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"HealthBar2.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "HealthBar2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/HealthBar2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "HealthBar2.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "HealthBar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HealthBar3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/UI Heart_Empty.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UI Heart_Empty.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/UI/6885a4db07047281d87e69a075bbb4183b01444fab2a8476d3167b0573e6a9f0_UI Heart_Empty.png",
+          "name": "UI Heart_Empty.png"
+        }
+      },
+      {
+        "file": "assets/UI Heart_Full.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UI Heart_Full.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/UI/cf347db5d9886d794890e9e2bdc3d91532db864a4665d35e93817a5e7d926ebe_UI Heart_Full.png",
+          "name": "UI Heart_Full.png"
+        }
+      },
+      {
+        "file": "assets/UI Heart_Half.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "UI Heart_Half.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/UI/c4515f3c860d87b55a535f295a616026028d90fe6d6115305a750350d81df652_UI Heart_Half.png",
+          "name": "UI Heart_Half.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -650,7 +1218,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.689778214010455,
+        "zoomFactor": 0.7130377630690788,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -671,8 +1239,8 @@
           "name": "Player",
           "persistentUuid": "66f8a287-6d32-449e-bd54-257f5caca163",
           "width": 0,
-          "x": 464,
-          "y": 288,
+          "x": 1264,
+          "y": 208,
           "zOrder": 155,
           "numberProperties": [],
           "stringProperties": [],
@@ -1109,8 +1677,8 @@
           "name": "Coin",
           "persistentUuid": "14b4c421-b267-4662-a5ea-d59cd7aa32f3",
           "width": 0,
-          "x": 768,
-          "y": 256,
+          "x": 800,
+          "y": 240,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1125,8 +1693,8 @@
           "name": "Coin",
           "persistentUuid": "5ae082f0-6de8-4f21-9046-2724a9bb0ca0",
           "width": 0,
-          "x": 624,
-          "y": 288,
+          "x": 608,
+          "y": 304,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1240,7 +1808,7 @@
           "layer": "",
           "name": "Platform_Stone",
           "persistentUuid": "d4575180-9b85-4527-8107-356e16aaff6b",
-          "width": 48,
+          "width": 64,
           "x": 944,
           "y": 256,
           "zOrder": 15,
@@ -1273,8 +1841,8 @@
           "layer": "",
           "name": "Boundary",
           "persistentUuid": "95c9eae8-5ae4-43c6-921f-51dc7e45a7a3",
-          "width": 688,
-          "x": 368,
+          "width": 1600,
+          "x": 0,
           "y": 384,
           "zOrder": 22,
           "numberProperties": [],
@@ -1338,9 +1906,9 @@
           "layer": "",
           "name": "Background2",
           "persistentUuid": "29ed4fd8-f6fd-4c47-8d70-41dc02ac67cc",
-          "width": 1280,
+          "width": 1600,
           "x": 0,
-          "y": 119,
+          "y": 96,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1350,14 +1918,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 71,
+          "height": 192,
           "keepRatio": true,
           "layer": "",
           "name": "Background1",
           "persistentUuid": "7844c3dc-238f-4777-967a-5acc2ebebf16",
-          "width": 1280,
+          "width": 1600,
           "x": 0,
-          "y": 48,
+          "y": -96,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1367,14 +1935,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 71,
+          "height": 95,
           "keepRatio": true,
           "layer": "",
           "name": "Background3",
           "persistentUuid": "b6fdfaf9-ec1d-4366-9305-417756de132a",
-          "width": 1280,
+          "width": 1600,
           "x": 0,
-          "y": 136,
+          "y": 112,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1389,7 +1957,7 @@
           "layer": "",
           "name": "Background4",
           "persistentUuid": "d0e6737e-a1b5-460c-bc0a-0e75f111a4f4",
-          "width": 1280,
+          "width": 1600,
           "x": 0,
           "y": 207,
           "zOrder": -10,
@@ -1406,9 +1974,9 @@
           "layer": "",
           "name": "Background5",
           "persistentUuid": "312786b3-168e-40b9-9814-93d6b9550592",
-          "width": 1280,
+          "width": 1600,
           "x": 0,
-          "y": 296,
+          "y": 320,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1418,14 +1986,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 87,
+          "height": 112,
           "keepRatio": true,
           "layer": "",
           "name": "Background6",
           "persistentUuid": "c7e76238-c9dc-456f-ad53-9896f6207133",
-          "width": 1280,
+          "width": 1600,
           "x": 0,
-          "y": 313,
+          "y": 336,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1435,15 +2003,650 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 71,
+          "height": 95,
           "keepRatio": true,
           "layer": "",
           "name": "Background7",
           "persistentUuid": "41d8f5a5-6f7d-4155-89e3-4a56c7e5f468",
-          "width": 1280,
+          "width": 1600,
           "x": 0,
-          "y": 225,
+          "y": 224,
           "zOrder": -10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 9,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Moving2",
+          "persistentUuid": "12110a72-e976-405b-af5c-7b110756ba3a",
+          "width": 32,
+          "x": 1008,
+          "y": 160,
+          "zOrder": 156,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Dirt",
+          "persistentUuid": "2b1875ce-9e9d-4b5d-8e42-04ac7437301b",
+          "width": 96,
+          "x": 1072,
+          "y": 80,
+          "zOrder": 157,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Dirt2",
+          "persistentUuid": "a4e02944-f8cd-44a9-a3e7-f095539e5386",
+          "width": 96,
+          "x": 1072,
+          "y": 96,
+          "zOrder": 158,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Dirt2",
+          "persistentUuid": "d12d15ed-cce2-4294-8cec-dc06a5d30865",
+          "width": 48,
+          "x": 1120,
+          "y": 112,
+          "zOrder": 159,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Stone2",
+          "persistentUuid": "f888f02b-25bd-46ef-8b90-9884945573a3",
+          "width": 0,
+          "x": 992,
+          "y": 272,
+          "zOrder": 160,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "7b5bb2da-7316-491a-aee3-2359986f88b4",
+          "width": 64,
+          "x": 1008,
+          "y": 80,
+          "zOrder": 161,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "4de68473-b8bc-41c0-bcf7-1052434781d2",
+          "width": 32,
+          "x": 1008,
+          "y": 144,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "eccbbb70-3252-4f0e-a461-1d52abf55617",
+          "width": 32,
+          "x": 1008,
+          "y": 112,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coin",
+          "persistentUuid": "96f2153a-f9b3-41a6-bbe4-22aa72ef8bd2",
+          "width": 0,
+          "x": 1008,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coin",
+          "persistentUuid": "2175e57a-0271-4a9c-b72f-ccfa066fc8f8",
+          "width": 0,
+          "x": 1072,
+          "y": 64,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coin",
+          "persistentUuid": "4d723319-dce0-4a8b-960d-2f39f8676d54",
+          "width": 0,
+          "x": 912,
+          "y": 256,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 11,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Heart",
+          "persistentUuid": "1cb7c0e9-2c6f-48a5-85a3-0ba3a6f20c40",
+          "width": 13,
+          "x": 979,
+          "y": 240,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 48,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "HealthBarBox",
+          "persistentUuid": "4dd07c22-5351-48c4-a78e-54f39f5065c2",
+          "width": 352,
+          "x": 16,
+          "y": 80,
+          "zOrder": 165,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 42,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "HealthBar",
+          "persistentUuid": "55eff9c3-907d-4d42-9973-92ba0a8c9f4b",
+          "width": 334,
+          "x": 25,
+          "y": 83,
+          "zOrder": 166,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 11,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Heart",
+          "persistentUuid": "76d3f90f-0479-4faf-892e-d1479cf18b81",
+          "width": 13,
+          "x": 1024,
+          "y": 101,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Spikes",
+          "persistentUuid": "1fd406ca-39ad-4861-9493-b121d6a52cf4",
+          "width": 0,
+          "x": 768,
+          "y": 256,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Spikes",
+          "persistentUuid": "51aaf39c-bc3f-4092-bddf-100d5bcc7fe5",
+          "width": 0,
+          "x": 960,
+          "y": 240,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Stone",
+          "persistentUuid": "16cba1ad-072e-41da-9a20-dbec31ed4209",
+          "width": 112,
+          "x": 1200,
+          "y": 240,
+          "zOrder": 167,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Stone2",
+          "persistentUuid": "de9667f5-92bb-401e-a666-627bdcc248a5",
+          "width": 320,
+          "x": 1200,
+          "y": 256,
+          "zOrder": 168,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Spikes",
+          "persistentUuid": "520bf6fe-c5f0-4dfe-9bed-ee4977f4b064",
+          "width": 0,
+          "x": 816,
+          "y": 240,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "0fde4bdd-355b-43e6-8ad4-0261e3e3472f",
+          "width": 64,
+          "x": 1168,
+          "y": 80,
+          "zOrder": 161,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "9151f2b4-2b8a-46ca-b78f-db10c725ea5b",
+          "width": 32,
+          "x": 1200,
+          "y": 112,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "d03cf194-09ea-4ca3-936c-3237f9180413",
+          "width": 32,
+          "x": 1200,
+          "y": 144,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "0a2ce6c0-480b-499c-8c90-9f8cf604a87a",
+          "width": 32,
+          "x": 1200,
+          "y": 176,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Bridge",
+          "persistentUuid": "b9d9a0af-a797-45ed-8288-0f0714861c51",
+          "width": 32,
+          "x": 1200,
+          "y": 208,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "956b987c-eaf2-4d15-ba8b-8785cc4bcaad",
+          "width": 0,
+          "x": 1192,
+          "y": 56,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coin",
+          "persistentUuid": "6f3a26b8-2d01-45d3-a3e9-3603c85517b1",
+          "width": 0,
+          "x": 1216,
+          "y": 160,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Stone",
+          "persistentUuid": "95fb87de-4f90-4f8d-bf1d-28c486760c13",
+          "width": 80,
+          "x": 1440,
+          "y": 240,
+          "zOrder": 167,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Stone2",
+          "persistentUuid": "de8cf93a-1e37-4671-850e-e96a6badf067",
+          "width": 112,
+          "x": 1200,
+          "y": 256,
+          "zOrder": 169,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Stone2",
+          "persistentUuid": "645de373-1c8f-4ab7-b7f3-1179109e62ce",
+          "width": 112,
+          "x": 1408,
+          "y": 256,
+          "zOrder": 169,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LaserSpikes",
+          "persistentUuid": "08b200de-c71d-4ed3-932e-fae972e7cb77",
+          "width": 0,
+          "x": 1312,
+          "y": 224,
+          "zOrder": 165,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LaserSpikes",
+          "persistentUuid": "0c35e1ee-e54a-4c96-8d4a-69f65909ee48",
+          "width": 0,
+          "x": 1344,
+          "y": 224,
+          "zOrder": 165,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LaserSpikes",
+          "persistentUuid": "1908779b-23b4-424b-9736-961636b542a3",
+          "width": 0,
+          "x": 1376,
+          "y": 224,
+          "zOrder": 165,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LaserSpikes",
+          "persistentUuid": "6ddfac6c-c6e2-489c-94a7-e50776bec5a8",
+          "width": 0,
+          "x": 1408,
+          "y": 224,
+          "zOrder": 165,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Moving",
+          "persistentUuid": "e1d0182a-ec7d-4980-9c57-75700a37e24e",
+          "width": 0,
+          "x": 1312,
+          "y": 224,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Spikes",
+          "persistentUuid": "31dfdac6-3415-41a4-932b-8f9e41a73ea9",
+          "width": 0,
+          "x": 784,
+          "y": 256,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Decore",
+          "persistentUuid": "aed84bd5-4bfe-43c0-8b0e-fde3d31afdca",
+          "width": 0,
+          "x": 448,
+          "y": 64,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":67,\"dimY\":16,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,101,-1,-1,104,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,48,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,87,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,81,80,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,88,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,67,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,82,83,84],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,54,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,98,99,100],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,48,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,70,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,115,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,64,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,86,136,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,56,-1,131,97],[53,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,134,-1,-1,80,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[69,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,136,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[69,-1,-1,-1,-1,-1,-1,-1,-1,53,-1,-1,-1,-1,101,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[69,-1,-1,-1,-1,-1,-1,-1,-1,69,-1,-1,103,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[85,-1,-1,-1,-1,-1,-1,-1,133,85,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "UI_Time",
+          "persistentUuid": "aad5d219-7d2b-41a5-87be-dd9d0322461f",
+          "width": 0,
+          "x": 1074,
+          "y": 16,
+          "zOrder": 174,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1456,10 +2659,22 @@
           "name": "Player",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Health",
+              "type": "number",
+              "value": 25
+            },
+            {
+              "name": "MaxHealth",
+              "type": "number",
+              "value": 25
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
+              "isFolded": true,
               "name": "PlatformerCharacterAnimator",
               "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
               "EnableAnimationChanges": true,
@@ -1474,21 +2689,21 @@
               "Flippable": "Flippable"
             },
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "canGrabPlatforms": false,
+              "ignoreDefaultControls": false,
               "acceleration": 400,
               "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
               "canGrabWithoutMoving": false,
               "deceleration": 1500,
               "gravity": 300,
-              "ignoreDefaultControls": false,
               "jumpSpeed": 170,
               "jumpSustainTime": 0.15,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 400,
               "maxSpeed": 100,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -2688,10 +3903,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2765,8 +3980,8 @@
           "behaviors": [
             {
               "name": "Platform",
-              "platformType": "Jumpthru",
               "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "Jumpthru",
               "canBeGrabbed": true,
               "yGrabOffset": 0
             }
@@ -3274,11 +4489,11 @@
           "effects": [],
           "behaviors": [
             {
-              "canGrabWithoutMoving": false,
-              "ignoreDefaultControls": true,
               "isFolded": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "canGrabWithoutMoving": false,
+              "ignoreDefaultControls": true,
               "acceleration": 400,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -3295,6 +4510,8 @@
               "yGrabOffset": 0
             },
             {
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -3304,9 +4521,7 @@
               "ignoreDefaultControls": true,
               "maxSpeed": 40,
               "movementAngleOffset": 0,
-              "name": "TopDownMovement",
               "rotateObject": false,
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "viewpoint": "TopDown"
             }
           ],
@@ -3709,6 +4924,802 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 9,
+          "name": "Platform_Moving2",
+          "texture": "Platform_JumpThrough.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "Jumpthru",
+              "canBeGrabbed": true,
+              "yGrabOffset": 0
+            },
+            {
+              "name": "RectangleMovement",
+              "type": "RectangleMovement::RectangleMovement",
+              "Width": 0,
+              "Height": 100,
+              "Clockwise": true,
+              "HorizontalEdgeDuration": 1,
+              "VerticalEdgeDuration": 4,
+              "Left": 1.00000000000091,
+              "Top": 1.00000000000091,
+              "Progress": 1.00000000000091,
+              "OldX": 1.00000000000091,
+              "OldY": 1.00000000000091,
+              "Easing": "easeInOutSine",
+              "InitialPosition": "Top-left corner",
+              "ToogleClockwise": false
+            }
+          ]
+        },
+        {
+          "assetStoreId": "138ee716846635e3e0e5ab7b63752d1a36754f1ac874c70e1b5fa372d5a05474",
+          "bottomMargin": 6,
+          "height": 15,
+          "leftMargin": 11,
+          "name": "HealthBarBox",
+          "rightMargin": 9,
+          "texture": "Health Bar Box.png",
+          "tiled": true,
+          "topMargin": 6,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 96,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "0ad03c70a5c5284cc85170b3852e425db0f4deed8225b1b10722ef26902186d8",
+          "bottomMargin": 2,
+          "height": 9,
+          "leftMargin": 3,
+          "name": "HealthBar",
+          "rightMargin": 3,
+          "texture": "Health Bar.png",
+          "tiled": true,
+          "topMargin": 4,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 78,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "752e405ef67d9f9d1bd36f9763f1b6fc05633d64700982c0f3118a25a32e39b2",
+          "height": 16,
+          "name": "TiledEmptyUiHeart",
+          "texture": "tiled_Tiled Empty UI Heart.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "fe4e4b881d2b682173254f5c5ff9d805309be4ce4e190e2b26c0195e636ed135",
+          "name": "Heart",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Spinning",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Heart_Spinning_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Heart_Spinning_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Heart_Spinning_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Heart_Spinning_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "ad5eec3101f5acd69d381481f39db03d7eabbf96c9681c66bee04f5e78f38a85",
+          "name": "Spikes",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spikes.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 9
+                          },
+                          {
+                            "x": 15,
+                            "y": 9
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "5a910f7821ee1f16eaa78d2b0f522501ffc5e9ca307f5dfafcda2c7ddeb52c04",
+          "name": "LaserSpikes",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.0833,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Laser Spikes_Idle_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 17
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Decore",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "world_tileset5.png",
+            "rowCount": 16,
+            "columnCount": 16,
+            "tileSize": 16,
+            "tilesWithHitBox": "0,1,2,3,4,5,6,7,8,28,43,115,130"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "UI_Time",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Time: 0",
+            "opacity": 255,
+            "scale": 3,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "PixelOperator8-Bold.fnt",
+            "textureAtlasResourceName": "PixelOperator8-Bold.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "39687b0356672394baed61d555f3b6ba077e7ad369a7898c421fd318d4307a72",
+          "name": "UiHeart",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Full",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "UI Heart_Full.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 14,
+                            "y": 2
+                          },
+                          {
+                            "x": 14,
+                            "y": 14
+                          },
+                          {
+                            "x": 1,
+                            "y": 14
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -3748,10 +5759,22 @@
             "objectName": "Platform_Moving"
           },
           {
+            "objectName": "Platform_Moving2"
+          },
+          {
             "objectName": "UI_Score"
           },
           {
+            "objectName": "UI_Time"
+          },
+          {
             "objectName": "Tutorial"
+          },
+          {
+            "objectName": "TiledEmptyUiHeart"
+          },
+          {
+            "objectName": "Heart"
           },
           {
             "objectName": "Background1"
@@ -3773,10 +5796,43 @@
           },
           {
             "objectName": "Background7"
+          },
+          {
+            "objectName": "LaserSpikes"
+          },
+          {
+            "objectName": "HealthBarBox"
+          },
+          {
+            "objectName": "HealthBar"
+          },
+          {
+            "objectName": "Spikes"
+          },
+          {
+            "objectName": "Decore"
+          },
+          {
+            "objectName": "UiHeart"
+          },
+          {
+            "objectName": "NewTiledSprite"
           }
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Start Game"
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -3849,65 +5905,16 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Coin",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Coin",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "coin.wav",
-                "",
-                "20",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "Score",
-                "+",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "UI_Score",
-                "Text",
-                "=",
-                "\"Score: \" + Score"
-              ]
-            }
-          ]
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemy Moving Event"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -4019,6 +6026,454 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Player Controller"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"a\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"d\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Space\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "jump.wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Collision"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    "<",
+                    "25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Heart",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Heart",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "+",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "HealthBar",
+                "Resizable",
+                "=",
+                "clamp((Player.Health/Player.MaxHealth)*334,0,334)"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "power_up.wav",
+                "",
+                "40",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Coin",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Coin",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "coin.wav",
+                "",
+                "20",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Score",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "UI_Score",
+                "Text",
+                "=",
+                "\"Score: \" + Score"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Enemy",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "-",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "HealthBar",
+                "Resizable",
+                "=",
+                "clamp((Player.Health/Player.MaxHealth)*334,0,334)"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "hurt.wav",
+                "",
+                "50",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Spikes",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "-",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "HealthBar",
+                "Resizable",
+                "=",
+                "clamp((Player.Health/Player.MaxHealth)*334,0,334)"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "hurt.wav",
+                "",
+                "40",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "LaserSpikes",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "-",
+                "25"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "HealthBar",
+                "Resizable",
+                "=",
+                "clamp((Player.Health/Player.MaxHealth)*334,0,334)"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "hurt.wav",
+                "",
+                "40",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemy Death event"
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4029,14 +6484,13 @@
               "subInstructions": [
                 {
                   "type": {
-                    "value": "CollisionNP"
+                    "value": "NumberObjectVariable"
                   },
                   "parameters": [
                     "Player",
-                    "Enemy",
-                    "",
-                    "",
-                    ""
+                    "Health",
+                    "<=",
+                    "0"
                   ]
                 },
                 {
@@ -4062,6 +6516,17 @@
                 "Animation",
                 "=",
                 "\"Death\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "HealthBar",
+                "Resizable",
+                "=",
+                "0"
               ]
             }
           ]
@@ -4117,6 +6582,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
